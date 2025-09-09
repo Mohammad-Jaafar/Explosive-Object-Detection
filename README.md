@@ -50,3 +50,5 @@ pip install -r requirements.txt
 - Deploy model on mobile app (Android/iOS).
 - Extend dataset with more object categories.
 - Improve accuracy with advanced augmentations.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
