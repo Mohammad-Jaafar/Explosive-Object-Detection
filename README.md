@@ -42,7 +42,7 @@ pip install -r requirements.txt
 - Best model accuracy: > 80%
 - Confusion matrix example:
 
-<img width="600" height="500" alt="confusion_matrix" src="https://github.com/user-attachments/assets/6071553b-5300-46e0-b7de-e89db2917650" />
+<img src="results/confusion_matrix.png" alt="Confusion Matrix" width="400" />
 
 
 ## Future Work
